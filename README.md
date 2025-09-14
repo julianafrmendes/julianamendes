@@ -4,11 +4,11 @@
 
 Atuo há 3 anos na área de dados e meu objetivo vai muito além de dashboards e técnicas, prefiro comunicar como os dados podem agregar nossas vidas e nos ajudar a identificar oportunidades. 
 
-Acredito que analistas são pontes entre informações e pessoas expandir a visão de mundo nos conecta a grandes possibilidade e o que me move é poder expandir meu conhecimento com o mundo e superar novos desafios. ".
+Acredito que analistas são pontes entre informações e pessoas expandir a visão de mundo nos conecta a grandes possibilidade e o que me move é poder expandir meu conhecimento com o mundo e superar novos desafios. Gosto de falar sobre assuntos relacionados a dados e minhas descobertas na minha página do medium "[Confusion Matrix](https://medium.com/@Confusion_Matrix)"
 
 
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/julianafrmendes?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
