@@ -12,11 +12,13 @@ Acredito que analistas são pontes entre informações e pessoas expandir a vis�
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="TensorFlow"
+    title="TensorFlow" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
+          " 
 />
 <img 
     align="left" 
