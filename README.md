@@ -7,18 +7,7 @@ Atuo há 3 anos na área de dados e meu objetivo vai muito além de dashboards e
 Acredito que analistas são pontes entre informações e pessoas expandir a visão de mundo nos conecta a grandes possibilidade e o que me move é poder expandir meu conhecimento com o mundo e superar novos desafios. Gosto de falar sobre assuntos relacionados a dados e minhas descobertas na minha página do medium "[Confusion Matrix](https://medium.com/@Confusion_Matrix)"
 
 
-    </a>
-    <a href="https://github.com/julianafrmendes?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
----
-
+   
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -145,14 +134,14 @@ Acredito que analistas são pontes entre informações e pessoas expandir a vis�
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=julianafrmendes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianafrmendes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
