@@ -9,7 +9,14 @@ Acredito que analistas são pontes entre informações e pessoas expandir a vis�
 
    
 ### 🤖 Linguagens e Tecnologias
-
+<img 
+    align="left" 
+    alt="Python"
+    title="Pyhton" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"               
+/>
 <img 
     align="left" 
     alt="TensorFlow"
@@ -20,12 +27,13 @@ Acredito que analistas são pontes entre informações e pessoas expandir a vis�
 />
 <img 
     align="left" 
-    alt="Docker" 
-    title="Docker"
+    alt="Scikitlearn"
+    title="Scikitlearn" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"     
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"                
 />
+
 <img 
     align="left" 
     alt="Supabase" 
@@ -50,13 +58,13 @@ Acredito que analistas são pontes entre informações e pessoas expandir a vis�
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg"       
 />
- <img 
+<img 
     align="left" 
-    alt="Redis"
-    title="Redis" 
+    alt="Docker" 
+    title="Docker"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"     
 />
 
 <br/>
