@@ -44,6 +44,14 @@ Acredito que analistas são pontes entre informações e pessoas expandir a vis�
 />
 <img 
     align="left" 
+    alt="Postgres" 
+    title="Postgres"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"
+/>
+<img 
+    align="left" 
     alt="Redis"
     title="Redis" 
     width="30px" 
