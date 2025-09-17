@@ -93,7 +93,7 @@ Acredito que analistas são pontes entre informações e pessoas expandir a vis�
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianafrmendes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianafrmendes&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
